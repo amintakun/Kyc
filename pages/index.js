@@ -67,3 +67,5 @@ export default function Home() {
     </div>
   )
 }
+
+<img src="/images/binance.svg" alt="Binance" style={{ width:80, height:80 }} />
