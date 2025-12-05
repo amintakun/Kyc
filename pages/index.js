@@ -69,4 +69,12 @@ export default function Home() {
 }
 
 <img src="/images/binance.svg" alt="Binance" width="200" />
+    import Image from "next/image";
+
+<Image
+  src="/images/binance.svg"
+  alt="Binance"
+  width={200}
+  height={200}
+/>
 
